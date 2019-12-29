@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ryanramage/ndjson-to-elasticsearch",
   "dependencies": {
     "async": "^2.0.0-rc.1",
-    "jsonist": "^1.3.0",
+    "jsonist": "^3.0.1",
     "lodash.template": "^4.2.0",
     "ndjson": "^1.3.0",
     "rc": "^1.0.3",
